@@ -1,7 +1,5 @@
 # 💫 About Me:
-Bachelor Engineer with Information Technology.<br>MERN stack Devloper.<br>Having Coding Knowledge in JAVA, C++.<br>
-
-
+I am an Information Technology engineering graduate.<br>Software Devloper.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imtushrpwar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tp429141@gmail.com) 
 
